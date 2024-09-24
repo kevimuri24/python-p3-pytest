@@ -1,4 +1,4 @@
-def return_string():
+pytespydef return_string():
     return ''
 
 def interpolate_string(s):
